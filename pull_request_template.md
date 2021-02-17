@@ -1,4 +1,4 @@
-Jira: <Enter link to Jira>
+Jira Link (use notation [PROJECT-123]):
 Problem / Feature: See Jira
 Solution: See Jira
 Testing: See Jira
