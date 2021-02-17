@@ -1,7 +1,8 @@
-Mantis: <Enter link to Mantis>
-Problem / Feature: See Mantis
-Solution: See Mantis
-Testing: See Mantis
+Jira: <Enter link to Jira>
+Problem / Feature: See Jira
+Solution: See Jira
+Testing: See Jira
+Jira or PR for parallel or older branches: <Enter link to Jira or another PR or delete this if not needed>
 Concerns: None
 Expert Reviewers: Any
 Sections to be Reviewed: All
